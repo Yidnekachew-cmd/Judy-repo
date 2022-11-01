@@ -15,7 +15,9 @@ Your project is complete! There is nothing else to say other than... Great job c
  * No Linter errors :white_check_mark:✅
  
  Now you can merge this branch and move on 🥇 HAPPY CODING AND GOOD LUCK WITH THE COMMING ONES :crossed_fingers four_leaf_clover:
-
+ 
+ 
+![](https://camo.githubusercontent.com/54a5d803a138b5a1a1242a607e4c1192c852cab8c591c1ddcaa33d06b51560f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f686c516559335062684833692f67697068792e676966)
 
  
  ## Optional suggestions
@@ -26,4 +28,12 @@ Cheers and Happy coding! 👏 👏 👏
 Feel free to leave any questions or comments in the PR thread if something is not 100% clear. Please, remember to tag me in your question so I can receive the notification.
  
  _As described in the [Code reviews limits policy](https://microverse.zendesk.com/hc/en-us/articles/1500004088561) you have a limited number of reviews per project (check the exact number in your Dashboard). If you think that the code review was not fair, you can request a second opinion using [this form](https://airtable.com/shrQAqnBwek5a0O0s)._
+
+
+
+
+
+ 
+
+
 
